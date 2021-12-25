@@ -14,9 +14,27 @@
   <img src="https://wakatime.com/badge/github/MartinYan623/My-Blog.svg"/>
  </p>
 
-🎉 Welcome to my Github! I'm **Martin** 😃, a computer science graduate from National University of Singapore 🏫.
+🎉 Welcome to my Github! I'm **ollehhello** 😃, a computer science graduate from National University of Singapore 🏫.
 Following my passion for programming, I am a **software engineer** who is passionate about Web Development, Machine Learning and open-source 🔥. 
 I love to explore and learn about any new things ❤️.
+
+### 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
+### ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript, CSS, React**
+- Backend development using **Node.js, Python**
+- Architecture design for Relational Database Management Systems like **MySQL, Postgres** as well as for NoSQL database systems like **Cassandra, MongoDB and Neo4j**
+- Robust full-stack system design implementation
+- Build kinds of models with **Machine Learning** and **Deep Learning** algorithms
+- Manage and maintain cloud server using **Ali Cloud**
+- Solving Data structure and algorithm questions.
+- Quantitative trading strategy with **Python**
 
 ### 👨‍💻 Open source work stats
 ![ollehhello's Github stats](https://github-readme-stats.vercel.app/api?username=ollehhello&show_icons=true)
