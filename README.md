@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 👨‍💻 Open source work stats
-
 ![ollehhello's Github stats](https://github-readme-stats.vercel.app/api?username=ollehhello&show_icons=true)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
