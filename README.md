@@ -20,7 +20,12 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 December, 2021 - 26 December, 2021
+
+Python   2 hrs 13 mins   ████████████▒░░░░░░░░░░░░   49.98 % 
+INI      1 hr 3 mins     ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+Other    51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.16 % 
+HTML     18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 ```
 <!--END_SECTION:waka-->
 
