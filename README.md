@@ -14,7 +14,7 @@
   <img src="https://wakatime.com/badge/user/04fad647-85e3-4110-9368-df2e75865242.svg"/>
  </p>
 
-🎉 Welcome to my Github! I'm **ollehhello** 😃, a computer science graduate from National University of Singapore 🏫.
+🎉 Welcome to my Github! I'm **ollehhello** 😃, a computer science graduate from University of AnHui 🏫.
 Following my passion for programming, I am a **software engineer** who is passionate about Web Development, Machine Learning and open-source 🔥. 
 I love to explore and learn about any new things ❤️.
 
