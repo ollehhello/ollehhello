@@ -11,7 +11,7 @@
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-contact%20me-blue"></a>
   <a href=""><img src="https://img.shields.io/badge/Blog-CSDN-red"></a>
   <img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/>
-  [![wakatime](https://wakatime.com/badge/user/04fad647-85e3-4110-9368-df2e75865242.svg)](https://wakatime.com/@04fad647-85e3-4110-9368-df2e75865242)
+  <img src="https://wakatime.com/badge/user/04fad647-85e3-4110-9368-df2e75865242.svg"/>
  </p>
 
 🎉 Welcome to my Github! I'm **ollehhello** 😃, a computer science graduate from National University of Singapore 🏫.
