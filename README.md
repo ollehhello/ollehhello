@@ -21,9 +21,9 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
-HTML   46 mins         █████████████████████████   100.00 % 
+HTML   39 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
