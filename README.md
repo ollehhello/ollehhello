@@ -21,7 +21,9 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 February, 2022 - 15 February, 2022
+
+HTML   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
