@@ -21,7 +21,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 22 April, 2022 - 28 April, 2022
+Week: 23 April, 2022 - 29 April, 2022
 
 C++        3 hrs 5 mins    ████████████████▓░░░░░░░░   66.77 % 
 Markdown   55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
