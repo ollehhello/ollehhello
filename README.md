@@ -21,7 +21,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 11 May, 2022 - 17 May, 2022
+Week: 12 May, 2022 - 18 May, 2022
 
 Python     1 hr 26 mins    █████████████████░░░░░░░░   67.44 % 
 C++        33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.19 % 
