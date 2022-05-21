@@ -21,7 +21,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 13 May, 2022 - 19 May, 2022
+Week: 14 May, 2022 - 20 May, 2022
 
 Python   1 hr 26 mins    ████████████████████████▓   98.16 % 
 ```
