@@ -21,11 +21,9 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 12 August, 2022 - 18 August, 2022
+Week: 13 August, 2022 - 19 August, 2022
 
-Nginx configuration file   1 hr 21 mins    ██████████████████▓░░░░░░   74.90 % 
-HTML                       22 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.03 % 
-Markdown                   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+C++   10 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
