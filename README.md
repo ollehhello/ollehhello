@@ -21,7 +21,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2022 - 19 September, 2022
+Week: 14 September, 2022 - 20 September, 2022
 
 C++    16 mins         ███████████████████████▓░   94.78 % 
 ```
